@@ -1,0 +1,9 @@
+Algo Addition of two numbers
+// purpose additon of numbers
+// input num1, num2
+// output additon of num1 and num2
+
+a <- 10
+b <- 10
+c <- a+b
+write(c)
